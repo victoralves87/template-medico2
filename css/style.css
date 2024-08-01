@@ -252,7 +252,8 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    background: url(../img/bg-icon.png) center center no-repeat;
+    background-color: #6244c5de;
+    border-radius: 50%;
     background-size: cover;
 }
 
@@ -283,7 +284,6 @@
     height: 100%;
     top: 0;
     left: 0;
-    background: rgba(98, 68, 197, .9);
     display: flex;
     align-items: flex-end;
     justify-content: flex-start;
